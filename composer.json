@@ -8,11 +8,11 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/justcontrol-it/sentry-php-sdk.git"
+      "url": "git@github.com:justcontrol-it/sentry-php-sdk.git"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/justcontrol-it/sentry-php.git"
+      "url": "git@github.com:justcontrol-it/sentry-php.git"
     }
   ],
   "authors": [
