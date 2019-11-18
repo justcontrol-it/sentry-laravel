@@ -9,6 +9,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/justcontrol-it/sentry-php-sdk.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/justcontrol-it/sentry-php.git"
     }
   ],
   "authors": [
