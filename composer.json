@@ -20,7 +20,7 @@
   "require": {
     "php": "^7.1",
     "illuminate/support": "5.0 - 5.8 | ^6.0",
-    "jci/sentry-php-sdk": "^2.0"
+    "jci/sentry-php-sdk": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "^8.0",
